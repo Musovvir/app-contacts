@@ -4,7 +4,7 @@
 
 1. Скачайте приложение с GitHub:
 
-### `git clone `
+### `git clone https://github.com/Musovvir/app-contacts.git`
 
 2. Введите в терминале команду:
 
