@@ -14,6 +14,11 @@
 
 ### `npm run dev`
 
+### Данные для авторизации
+
+Логин: admin
+Пароль: admin
+
 ### Возможности приложения:
 
 - авторизация
@@ -21,3 +26,14 @@
 - изменение контактов
 - удаление контактов
 - поиск по имени
+
+### Что я использовал:
+
+- React
+- Redux
+- Redux-Thunk
+- Redux-Logger
+- React-Router-Dom
+- json-server
+- Material UI
+- Concurrently
