@@ -1,5 +1,16 @@
 # Приложение контактов
 
+### Что я использовал:
+
+- React
+- Redux
+- Redux-Thunk
+- Redux-Logger
+- React-Router-Dom
+- json-server
+- Material UI
+- Concurrently
+
 ### Инструкция по запуску:
 
 1. Скачайте приложение с GitHub:
@@ -26,14 +37,3 @@
 - изменение контактов
 - удаление контактов
 - поиск по имени
-
-### Что я использовал:
-
-- React
-- Redux
-- Redux-Thunk
-- Redux-Logger
-- React-Router-Dom
-- json-server
-- Material UI
-- Concurrently
