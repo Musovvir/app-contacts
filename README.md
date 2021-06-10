@@ -1,4 +1,7 @@
-!(https://github.com/musovvir/app-contacts/blob/main/src/assets/app-contacts.jpg)
+![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/authorization.jpg)
+![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/app-contacts.jpg)
+![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/updating.jpg)
+![Header](https://github.com/musovvir/app-contacts/blob/main/src/assets/search.jpg)
 # Приложение контактов
 
 ### Что я использовал:
